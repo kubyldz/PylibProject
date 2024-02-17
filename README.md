@@ -7,6 +7,10 @@ This is a simple library management system written in Python.
 1. Clone the repository: `git clone https://github.com/kubyldz/library-management.git`
 
 
+## Requirements
+
+This program uses 'datetime' library, you can simply import the library by 'import datetime', which is included in the code already.
+
 ## Usage
 
 1. Run the program: `Lİbrarymanagementproject.py`
